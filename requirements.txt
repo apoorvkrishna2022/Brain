@@ -1,6 +1,10 @@
 numpy==1.24.3
 pandas==2.0.2
 matplotlib==3.7.1
-scikit-learn==1.2.2
+langchain==0.1.4
+langchain-openai==0.0.5
+langgraph==0.0.17
+pydantic==2.5.2
 fastapi==0.95.2
-uvicorn==0.22.0 
+uvicorn==0.22.0
+python-dotenv==1.0.0 
